@@ -29,7 +29,7 @@
 | Chloe    |1079686| manage the vender app    |  Done |
 
 ## General info
-This is project is about creating an vendor app and customer app from scratch. 
+This is project is about creating an vendor app and customer app from scratch. </br>
 * The home page of our website is https://snacks-in-a-van-webg100.herokuapp.com. 
 * The customer side application can be accessed by https://snacks-in-a-van-webg100.herokuapp.com/customer.
 * The vendor side application can be accessed through https://snacks-in-a-van-webg100.herokuapp.com/vender.
@@ -69,9 +69,9 @@ Project is created with:
 - [x] Read the Project handouts carefully
 - [x] User Interface (UI)mockup
 - [x] App server mockup
-- [ ] Front-end + back-end (one feature)
-- [ ] Complete system + source code
-- [ ] Report on your work(+ test1 feature)
+- [x] Front-end + back-end (one feature)
+- [x] Complete system + source code
+- [x] Report on your work(+ test1 feature)
 
 
 ## App server mockup instruction:
